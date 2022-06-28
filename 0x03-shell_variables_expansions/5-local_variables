@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+//prints local,env and func
